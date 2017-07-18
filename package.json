@@ -1,0 +1,30 @@
+{
+  "name": "swi",
+  "version": "0.1.0",
+  "description": "The cleanest and most accurate swiping with JavaScript",
+  "main": "build/swi.js",
+  "scripts": {
+    "test": "echo \"Sorry, no tests yet.\" && exit 1",
+    "build": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igorpavlov/swi.git"
+  },
+  "keywords": [
+    "swi",
+    "obfuscate",
+    "obfuscator"
+  ],
+  "author": "Igor Pavlov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/igorpavlov/swi/issues"
+  },
+  "homepage": "https://github.com/igorpavlov/swi#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-minify": "0.0.15",
+    "gulp-uglify": "^2.1.2"
+  }
+}
