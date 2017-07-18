@@ -1,5 +1,5 @@
 /**
- * The cleanest and most accurate swiping with JavaScript
+ * The cleanest and the most accurate swiping with JavaScript
  * https://github.com/igorpavlov/swi
  * MIT License | (c) Igor Pavlov 2017
  */
@@ -61,7 +61,7 @@
           }
         }
       }
-      
+
       mwX1 = mwX2;
       mwX2 = deltaX;
       mwY1 = mwY2;
