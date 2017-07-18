@@ -39,5 +39,6 @@ swi({
 });
 ```
 
-Enjoy!
+Try it out
 ===========
+See the Swi implementation at [Fustr.com](http://fustr.com)
