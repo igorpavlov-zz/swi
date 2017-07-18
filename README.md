@@ -17,7 +17,7 @@ Use
 ===
 
 ```js
-swi({
+swi.init({
   // element to attach swipe to, document by default
   element: document.getElementById('my-container'),
   left:  function () { console.log('Left swipe!');  }, // optional
