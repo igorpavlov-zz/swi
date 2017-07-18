@@ -1,7 +1,7 @@
 {
   "name": "swi",
   "version": "0.1.0",
-  "description": "The cleanest and most accurate swiping with JavaScript",
+  "description": "The cleanest and the most accurate swiping with JavaScript",
   "main": "build/swi.js",
   "scripts": {
     "test": "echo \"Sorry, no tests yet.\" && exit 1",
